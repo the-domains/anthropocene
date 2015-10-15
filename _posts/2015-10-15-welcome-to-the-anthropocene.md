@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'A first post(!) for the new site.'
-datePublished: '2015-10-15T21:03:00.331Z'
-dateModified: '2015-10-15T21:02:41.304Z'
+datePublished: '2015-10-15T21:11:54.681Z'
+dateModified: '2015-10-15T21:11:48.756Z'
 title: Welcome to the Anthropocene
 authors: []
 publisher:
